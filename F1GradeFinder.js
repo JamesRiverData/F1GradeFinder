@@ -12,6 +12,7 @@
   'use strict';
 
   const FIELD_LABELS = {
+    text6: 'GRADE',
     date5: 'GT Week 1',
     date6: 'GT Week 2',
     date7: 'GT Week 3',
